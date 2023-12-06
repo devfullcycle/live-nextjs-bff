@@ -1,0 +1,399 @@
+{
+    "reviews": [
+        {
+            "id": 1,
+            "content": "Ótimo produto!",
+            "product_id": 1
+        },
+        {
+            "id": 2,
+            "content": "Satisfeito com a compra.",
+            "product_id": 1
+        },
+        {
+            "id": 3,
+            "content": "Excelente qualidade.",
+            "product_id": 1
+        },
+        {
+            "id": 4,
+            "content": "Bom custo-benefício.",
+            "product_id": 1
+        },
+        {
+            "id": 5,
+            "content": "Recomendo a todos.",
+            "product_id": 1
+        },
+        {
+            "id": 6,
+            "content": "Produto de alta durabilidade.",
+            "product_id": 1
+        },
+        {
+            "id": 7,
+            "content": "Surpreendeu minhas expectativas.",
+            "product_id": 1
+        },
+        {
+            "id": 8,
+            "content": "Entrega rápida e eficiente.",
+            "product_id": 1
+        },
+        {
+            "id": 9,
+            "content": "Ótimo para presente.",
+            "product_id": 1
+        },
+        {
+            "id": 10,
+            "content": "Design moderno e elegante.",
+            "product_id": 1
+        },
+        {
+            "id": 11,
+            "content": "Muito bom, recomendo.",
+            "product_id": 2
+        },
+        {
+            "id": 12,
+            "content": "Cumpre o que promete.",
+            "product_id": 2
+        },
+        {
+            "id": 13,
+            "content": "Atendeu minhas expectativas.",
+            "product_id": 2
+        },
+        {
+            "id": 14,
+            "content": "Produto de alta qualidade.",
+            "product_id": 2
+        },
+        {
+            "id": 15,
+            "content": "Entrega rápida e segura.",
+            "product_id": 2
+        },
+        {
+            "id": 16,
+            "content": "Satisfeito com a compra.",
+            "product_id": 2
+        },
+        {
+            "id": 17,
+            "content": "Recomendo a todos os meus amigos.",
+            "product_id": 2
+        },
+        {
+            "id": 18,
+            "content": "Boa escolha.",
+            "product_id": 2
+        },
+        {
+            "id": 19,
+            "content": "Vale cada centavo.",
+            "product_id": 2
+        },
+        {
+            "id": 20,
+            "content": "Superou minhas expectativas.",
+            "product_id": 2
+        },
+        {
+            "id": 21,
+            "content": "Produto de qualidade.",
+            "product_id": 3
+        },
+        {
+            "id": 22,
+            "content": "Ótimo custo-benefício.",
+            "product_id": 3
+        },
+        {
+            "id": 23,
+            "content": "Produto de alta durabilidade.",
+            "product_id": 3
+        },
+        {
+            "id": 24,
+            "content": "Design moderno e elegante.",
+            "product_id": 3
+        },
+        {
+            "id": 25,
+            "content": "Entrega rápida e eficiente.",
+            "product_id": 3
+        },
+        {
+            "id": 26,
+            "content": "Satisfeito com a compra.",
+            "product_id": 3
+        },
+        {
+            "id": 27,
+            "content": "Recomendo a todos.",
+            "product_id": 3
+        },
+        {
+            "id": 28,
+            "content": "Surpreendeu minhas expectativas.",
+            "product_id": 3
+        },
+        {
+            "id": 29,
+            "content": "Ótimo para presente.",
+            "product_id": 3
+        },
+        {
+            "id": 30,
+            "content": "Excelente qualidade.",
+            "product_id": 3
+        },
+        {
+            "id": 31,
+            "content": "Bom custo-benefício.",
+            "product_id": 4
+        },
+        {
+            "id": 32,
+            "content": "Recomendo a todos.",
+            "product_id": 4
+        },
+        {
+            "id": 33,
+            "content": "Surpreendeu minhas expectativas.",
+            "product_id": 4
+        },
+        {
+            "id": 34,
+            "content": "Ótimo para presente.",
+            "product_id": 4
+        },
+        {
+            "id": 35,
+            "content": "Excelente qualidade.",
+            "product_id": 4
+        },
+        {
+            "id": 36,
+            "content": "Produto de alta durabilidade.",
+            "product_id": 4
+        },
+        {
+            "id": 37,
+            "content": "Design moderno e elegante.",
+            "product_id": 4
+        },
+        {
+            "id": 38,
+            "content": "Entrega rápida e eficiente.",
+            "product_id": 4
+        },
+        {
+            "id": 39,
+            "content": "Satisfeito com a compra.",
+            "product_id": 4
+        },
+        {
+            "id": 40,
+            "content": "Ótimo produto!",
+            "product_id": 4
+        },
+        {
+            "id": 41,
+            "content": "Satisfeito com a compra.",
+            "product_id": 5
+        },
+        {
+            "id": 42,
+            "content": "Recomendo a todos.",
+            "product_id": 5
+        },
+        {
+            "id": 43,
+            "content": "Surpreendeu minhas expectativas.",
+            "product_id": 5
+        },
+        {
+            "id": 44,
+            "content": "Ótimo para presente.",
+            "product_id": 5
+        },
+        {
+            "id": 45,
+            "content": "Excelente qualidade.",
+            "product_id": 5
+        },
+        {
+            "id": 46,
+            "content": "Produto de alta durabilidade.",
+            "product_id": 5
+        },
+        {
+            "id": 47,
+            "content": "Design moderno e elegante.",
+            "product_id": 5
+        },
+        {
+            "id": 48,
+            "content": "Entrega rápida e eficiente.",
+            "product_id": 5
+        },
+        {
+            "id": 49,
+            "content": "Ótimo produto!",
+            "product_id": 5
+        },
+        {
+            "id": 50,
+            "content": "Bom custo-benefício.",
+            "product_id": 5
+        },
+        {
+            "id": 51,
+            "content": "Produto de alta durabilidade.",
+            "product_id": 6
+        },
+        {
+            "id": 52,
+            "content": "Design moderno e elegante.",
+            "product_id": 6
+        },
+        {
+            "id": 53,
+            "content": "Entrega rápida e eficiente.",
+            "product_id": 6
+        },
+        {
+            "id": 54,
+            "content": "Satisfeito com a compra.",
+            "product_id": 6
+        },
+        {
+            "id": 55,
+            "content": "Recomendo a todos.",
+            "product_id": 6
+        },
+        {
+            "id": 56,
+            "content": "Surpreendeu minhas expectativas.",
+            "product_id": 6
+        },
+        {
+            "id": 57,
+            "content": "Ótimo para presente.",
+            "product_id": 6
+        },
+        {
+            "id": 58,
+            "content": "Excelente qualidade.",
+            "product_id": 6
+        },
+        {
+            "id": 59,
+            "content": "Produto de alta durabilidade.",
+            "product_id": 6
+        },
+        {
+            "id": 60,
+            "content": "Design moderno e elegante.",
+            "product_id": 6
+        },
+        {
+            "id": 61,
+            "content": "Entrega rápida e eficiente.",
+            "product_id": 7
+        },
+        {
+            "id": 62,
+            "content": "Satisfeito com a compra.",
+            "product_id": 7
+        },
+        {
+            "id": 63,
+            "content": "Recomendo a todos.",
+            "product_id": 7
+        },
+        {
+            "id": 64,
+            "content": "Surpreendeu minhas expectativas.",
+            "product_id": 7
+        },
+        {
+            "id": 65,
+            "content": "Ótimo para presente.",
+            "product_id": 7
+        },
+        {
+            "id": 66,
+            "content": "Excelente qualidade.",
+            "product_id": 7
+        },
+        {
+            "id": 67,
+            "content": "Produto de alta durabilidade.",
+            "product_id": 7
+        },
+        {
+            "id": 68,
+            "content": "Design moderno e elegante.",
+            "product_id": 7
+        },
+        {
+            "id": 69,
+            "content": "Entrega rápida e eficiente.",
+            "product_id": 7
+        },
+        {
+            "id": 70,
+            "content": "Satisfeito com a compra.",
+            "product_id": 7
+        },
+        {
+            "id": 71,
+            "content": "Recomendo a todos.",
+            "product_id": 8
+        },
+        {
+            "id": 72,
+            "content": "Surpreendeu minhas expectativas.",
+            "product_id": 8
+        },
+        {
+            "id": 73,
+            "content": "Ótimo para presente.",
+            "product_id": 8
+        },
+        {
+            "id": 74,
+            "content": "Excelente qualidade.",
+            "product_id": 8
+        },
+        {
+            "id": 75,
+            "content": "Produto de alta durabilidade.",
+            "product_id": 8
+        },
+        {
+            "id": 76,
+            "content": "Design moderno e elegante.",
+            "product_id": 8
+        },
+        {
+            "id": 77,
+            "content": "Entrega rápida e eficiente.",
+            "product_id": 8
+        },
+        {
+            "id": 78,
+            "content": "Satisfeito com a compra.",
+            "product_id": 8
+        },
+        {
+            "id": 79,
+            "content": "Recomendo a todos.",
+            "product_id": 8
+        }
+    ]
+}

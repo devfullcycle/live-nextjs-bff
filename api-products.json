@@ -1,0 +1,124 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Produto 1",
+            "description": "Descrição do produto 1",
+            "price": 10.22
+        },
+        {
+            "id": 2,
+            "name": "Produto 2",
+            "description": "Descrição do produto 2",
+            "price": 15.99
+        },
+        {
+            "id": 3,
+            "name": "Produto 3",
+            "description": "Descrição do produto 3",
+            "price": 25.50
+        },
+        {
+            "id": 4,
+            "name": "Produto 4",
+            "description": "Descrição do produto 4",
+            "price": 8.75
+        },
+        {
+            "id": 5,
+            "name": "Produto 5",
+            "description": "Descrição do produto 5",
+            "price": 19.99
+        },
+        {
+            "id": 6,
+            "name": "Produto 6",
+            "description": "Descrição do produto 6",
+            "price": 12.00
+        },
+        {
+            "id": 7,
+            "name": "Produto 7",
+            "description": "Descrição do produto 7",
+            "price": 30.50
+        },
+        {
+            "id": 8,
+            "name": "Produto 8",
+            "description": "Descrição do produto 8",
+            "price": 17.99
+        },
+        {
+            "id": 9,
+            "name": "Produto 9",
+            "description": "Descrição do produto 9",
+            "price": 14.25
+        },
+        {
+            "id": 10,
+            "name": "Produto 10",
+            "description": "Descrição do produto 10",
+            "price": 22.00
+        },
+        {
+            "id": 11,
+            "name": "Produto 11",
+            "description": "Descrição do produto 11",
+            "price": 11.50
+        },
+        {
+            "id": 12,
+            "name": "Produto 12",
+            "description": "Descrição do produto 12",
+            "price": 9.99
+        },
+        {
+            "id": 13,
+            "name": "Produto 13",
+            "description": "Descrição do produto 13",
+            "price": 18.75
+        },
+        {
+            "id": 14,
+            "name": "Produto 14",
+            "description": "Descrição do produto 14",
+            "price": 13.00
+        },
+        {
+            "id": 15,
+            "name": "Produto 15",
+            "description": "Descrição do produto 15",
+            "price": 28.50
+        },
+        {
+            "id": 16,
+            "name": "Produto 16",
+            "description": "Descrição do produto 16",
+            "price": 16.99
+        },
+        {
+            "id": 17,
+            "name": "Produto 17",
+            "description": "Descrição do produto 17",
+            "price": 12.25
+        },
+        {
+            "id": 18,
+            "name": "Produto 18",
+            "description": "Descrição do produto 18",
+            "price": 21.00
+        },
+        {
+            "id": 19,
+            "name": "Produto 19",
+            "description": "Descrição do produto 19",
+            "price": 10.50
+        },
+        {
+            "id": 20,
+            "name": "Produto 20",
+            "description": "Descrição do produto 20",
+            "price": 14.99
+        }
+    ]
+}
